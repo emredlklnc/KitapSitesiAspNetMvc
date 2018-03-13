@@ -1,0 +1,26 @@
+﻿@model IEnumerable<site1.Models.EnCokSatılanlar>
+
+@{
+    ViewBag.Title = "Encok Satanlar";
+}
+
+<h2>EN ÇOK SATAN KİTAPLAR</h2>
+
+<br />
+<div class="row">
+
+
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 ">
+            <img src="~/ımage/@Html.DisplayFor(modelItem => item.EncokSatılanKitapResim)" /><br />
+            <p>@Html.DisplayNameFor(model => model.EncokSatılanKitapAdı): @Html.DisplayFor(modelItem => item.EncokSatılanKitapAdı)</p>
+            <p>@Html.DisplayNameFor(model => model.Fiyat): @Html.DisplayFor(modelItem => item.Fiyat)</p>   
+            
+            <p><a class="btn btn-default" href="http://localhost:51640/EnCokSat%C4%B1lanlar/Index">İncele &raquo;</a></p>
+        </div>
+    }
+
+
+</div>
+

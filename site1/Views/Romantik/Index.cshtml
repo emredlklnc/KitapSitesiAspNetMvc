@@ -1,0 +1,30 @@
+﻿@model IEnumerable<site1.Models.Romantik>
+
+@{
+    ViewBag.Title = "Romantik";
+}
+
+<h2>ROMANTİK KİTAPLAR</h2>
+
+<br />
+<div class="row">
+
+
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 ">
+            <img src="~/ımage/@Html.DisplayFor(modelItem => item.KitapResmi)" /><br />
+            <p>@Html.DisplayNameFor(model => model.RomantikKitapAdı): @Html.DisplayFor(modelItem => item.RomantikKitapAdı)</p>
+            <p>@Html.DisplayNameFor(model => model.Yazarı): @Html.DisplayFor(modelItem => item.Yazarı)</p>
+            <p>@Html.DisplayNameFor(model => model.Fiyat): @Html.DisplayFor(modelItem => item.Fiyat)</p>
+            <p>@Html.DisplayNameFor(model => model.Özeti): @Html.DisplayFor(modelItem => item.Özeti)</p>
+           
+            <p><a class="btn btn-default" href="http://localhost:51640/Romantik">İncele &raquo;</a></p>
+        </div>
+    }
+
+
+</div>
+
+
+

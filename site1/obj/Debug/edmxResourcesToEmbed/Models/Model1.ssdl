@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KitapSitesiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BilimKurgu">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BilimKurguKitapAdı" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapResmi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yazarı" Type="nvarchar" MaxLength="50" />
+    <Property Name="Özeti" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EnCokSatılanlar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="EncokSatılanKitapAdı" Type="nvarchar" MaxLength="50" />
+    <Property Name="EncokSatılanKitapResim" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EnYeniGelenler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="YeniGelenKitapAdı" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapResmi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yazarı" Type="nvarchar" MaxLength="50" />
+    <Property Name="Özeti" Type="nvarchar" MaxLength="150" />
+    <Property Name="Fiyatı" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="KisiselGelisim">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="KisişelGelişimKitapAdı" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapResmi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yazarı" Type="nvarchar" MaxLength="50" />
+    <Property Name="Özeti" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Kitaplar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KitapAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yazari" Type="nvarchar" MaxLength="50" />
+    <Property Name="BasimEvi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Resim" Type="nvarchar" MaxLength="150" />
+    <Property Name="Özeti" Type="nvarchar" MaxLength="250" />
+    <Property Name="Fiyat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Komedi">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KomediKitapAdı" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapResmi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yazarı" Type="nvarchar" MaxLength="50" />
+    <Property Name="Özeti" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Kullanıcılar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KULLANICIADI" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="SIFRE" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="EMAİL" Type="nchar" MaxLength="10" />
+    <Property Name="TARİH" Type="date" />
+  </EntityType>
+  <EntityType Name="Macera">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaceraKitabıAdı" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapResmi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yazarı" Type="nvarchar" MaxLength="50" />
+    <Property Name="Özeti" Type="nvarchar" MaxLength="250" />
+    <Property Name="Fiyat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Romantik">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="RomantikKitapAdı" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapResmi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yazarı" Type="nvarchar" MaxLength="50" />
+    <Property Name="Özeti" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Sepetim">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Kulid" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TemelEserler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TemelEserAdı" Type="nvarchar" MaxLength="50" />
+    <Property Name="KitapResmi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Yazarı" Type="nvarchar" MaxLength="50" />
+    <Property Name="Özeti" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fiyat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Sepetim_Kullanıcılar">
+    <End Role="Kullanıcılar" Type="Self.Kullanıcılar" Multiplicity="0..1" />
+    <End Role="Sepetim" Type="Self.Sepetim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanıcılar">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Sepetim">
+        <PropertyRef Name="Kulid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KitapSitesiModelStoreContainer">
+    <EntitySet Name="BilimKurgu" EntityType="Self.BilimKurgu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EnCokSatılanlar" EntityType="Self.EnCokSatılanlar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EnYeniGelenler" EntityType="Self.EnYeniGelenler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KisiselGelisim" EntityType="Self.KisiselGelisim" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kitaplar" EntityType="Self.Kitaplar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Komedi" EntityType="Self.Komedi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanıcılar" EntityType="Self.Kullanıcılar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Macera" EntityType="Self.Macera" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Romantik" EntityType="Self.Romantik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sepetim" EntityType="Self.Sepetim" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TemelEserler" EntityType="Self.TemelEserler" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Sepetim_Kullanıcılar" Association="Self.FK_Sepetim_Kullanıcılar">
+      <End Role="Kullanıcılar" EntitySet="Kullanıcılar" />
+      <End Role="Sepetim" EntitySet="Sepetim" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

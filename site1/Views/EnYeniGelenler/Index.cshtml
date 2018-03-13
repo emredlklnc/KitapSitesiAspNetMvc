@@ -1,0 +1,28 @@
+﻿@model IEnumerable<site1.Models.EnYeniGelenler>
+
+@{
+    ViewBag.Title = "Yeni Gelenler";
+}
+
+<h2>YENİ GELEN KİTAPLAR</h2>
+
+<br />
+<div class="row">
+
+
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 ">
+            <img src="~/ımage/@Html.DisplayFor(modelItem => item.KitapResmi)" /><br />
+            <p>@Html.DisplayNameFor(model => model.YeniGelenKitapAdı) :@Html.DisplayFor(modelItem => item.YeniGelenKitapAdı)</p>
+            <p>@Html.DisplayNameFor(model => model.Yazarı) :@Html.DisplayFor(modelItem => item.Yazarı)</p>
+            <p>@Html.DisplayNameFor(model => model.Fiyatı) :@Html.DisplayFor(modelItem => item.Fiyatı)</p>
+            <p>@Html.DisplayNameFor(model => model.Özeti) :@Html.DisplayFor(modelItem => item.Özeti)</p>
+            
+            <p><a class="btn btn-default" href="http://localhost:51640/EnYeniGelenler/Index">İncele &raquo;</a></p>
+        </div>
+    }
+
+
+</div>
+

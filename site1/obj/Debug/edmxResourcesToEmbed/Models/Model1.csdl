@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KitapSitesiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Kitaplar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KitapAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yazari" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BasimEvi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Resim" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Özeti" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Kullanıcılar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KULLANICIADI" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SIFRE" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="EMAİL" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="TARİH" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Sepetim" Relationship="KitapSitesiModel.FK_Sepetim_Kullanıcılar" FromRole="Kullanıcılar" ToRole="Sepetim" />
+  </EntityType>
+  <EntityContainer Name="KitapSitesiEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Kitaplar" EntityType="Self.Kitaplar" />
+    <EntitySet Name="Kullanıcılar" EntityType="Self.Kullanıcılar" />
+    <EntitySet Name="BilimKurgu" EntityType="KitapSitesiModel.BilimKurgu" />
+    <EntitySet Name="EnCokSatılanlar" EntityType="KitapSitesiModel.EnCokSatılanlar" />
+    <EntitySet Name="Macera" EntityType="KitapSitesiModel.Macera" />
+    <EntitySet Name="Romantik" EntityType="KitapSitesiModel.Romantik" />
+    <EntitySet Name="sysdiagrams" EntityType="KitapSitesiModel.sysdiagrams" />
+    <EntitySet Name="Komedi" EntityType="KitapSitesiModel.Komedi" />
+    <EntitySet Name="KisiselGelisim" EntityType="KitapSitesiModel.KisiselGelisim" />
+    <EntitySet Name="TemelEserler" EntityType="KitapSitesiModel.TemelEserler" />
+    <EntitySet Name="Sepetim" EntityType="KitapSitesiModel.Sepetim" />
+    <AssociationSet Name="FK_Sepetim_Kullanıcılar" Association="KitapSitesiModel.FK_Sepetim_Kullanıcılar">
+      <End Role="Kullanıcılar" EntitySet="Kullanıcılar" />
+      <End Role="Sepetim" EntitySet="Sepetim" />
+    </AssociationSet>
+    <EntitySet Name="EnYeniGelenler" EntityType="KitapSitesiModel.EnYeniGelenler" />
+  </EntityContainer>
+  <EntityType Name="BilimKurgu">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BilimKurguKitapAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KitapResmi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yazarı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Özeti" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="EnCokSatılanlar">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="EncokSatılanKitapAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EncokSatılanKitapResim" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Macera">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MaceraKitabıAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KitapResmi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yazarı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Özeti" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Romantik">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="RomantikKitapAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KitapResmi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yazarı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Özeti" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Komedi">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KomediKitapAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KitapResmi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yazarı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Özeti" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="KisiselGelisim">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="KisişelGelişimKitapAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KitapResmi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yazarı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Özeti" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TemelEserler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TemelEserAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KitapResmi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yazarı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Özeti" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Sepetim">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Kulid" Type="Int32" />
+    <NavigationProperty Name="Kullanıcılar" Relationship="KitapSitesiModel.FK_Sepetim_Kullanıcılar" FromRole="Sepetim" ToRole="Kullanıcılar" />
+  </EntityType>
+  <Association Name="FK_Sepetim_Kullanıcılar">
+    <End Type="KitapSitesiModel.Kullanıcılar" Role="Kullanıcılar" Multiplicity="0..1" />
+    <End Type="KitapSitesiModel.Sepetim" Role="Sepetim" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanıcılar">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Sepetim">
+        <PropertyRef Name="Kulid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="EnYeniGelenler">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="YeniGelenKitapAdı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KitapResmi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Yazarı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Özeti" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Fiyatı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

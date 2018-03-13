@@ -1,0 +1,684 @@
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site1 - Kopya\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\site1 - Kopya\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\yeni ste uygulamaları\site2\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\site2\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\site2\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\site2\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\site2\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\site2\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\site2\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\site2\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\site2\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\site2\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\site3 - Kopya - Kopya\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\site6 - Kopya\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\site8\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\site8\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\site8\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\site8\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\site8\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\site8\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\site8\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\site8\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\site8\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\site9\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\site9\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\site9\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\site9\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\site9\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\site9\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\site9\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\site9\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\site9\site1\obj\Debug\site1.pdb
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\ApplicationInsights.config
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\csc.exe
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\vbc.exe
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\site1.dll.config
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\site1.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\site1.pdb
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Antlr3.Runtime.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\EntityFramework.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\EntityFramework.SqlServer.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.Web.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Newtonsoft.Json.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Helpers.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Mvc.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Optimization.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Razor.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\WebGrease.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\EntityFramework.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\EntityFramework.SqlServer.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.Web.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Helpers.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Mvc.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Optimization.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Razor.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Antlr3.Runtime.pdb
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Newtonsoft.Json.xml
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\obj\Debug\site1.dll
+C:\Users\YunusEmre\Desktop\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\obj\Debug\site1.pdb
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\ApplicationInsights.config
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\csc.exe
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\System.Collections.Immutable.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\System.Reflection.Metadata.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\vbc.exe
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\VBCSCompiler.exe
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\roslyn\VBCSCompiler.exe.config
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\site1.dll.config
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\site1.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\site1.pdb
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Antlr3.Runtime.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\EntityFramework.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\EntityFramework.SqlServer.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.DependencyCollector.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.Web.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.WindowsServer.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.ApplicationInsights.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.Web.Infrastructure.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Newtonsoft.Json.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Helpers.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Mvc.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Optimization.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Razor.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.Deployment.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.Razor.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\WebGrease.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\EntityFramework.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\EntityFramework.SqlServer.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.DependencyCollector.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.Web.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.AI.WindowsServer.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.ApplicationInsights.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Helpers.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Mvc.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Optimization.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.Razor.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.Deployment.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\System.Web.WebPages.Razor.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Antlr3.Runtime.pdb
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\bin\Newtonsoft.Json.xml
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\obj\Debug\site1.csprojResolveAssemblyReference.cache
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\obj\Debug\site1.dll
+D:\projelerim\mvs aspnet\kitap sıtesi hazır\YunusEmreDalkılınç_201413172034\YunusEmreDalkılınç_201413172034\site1\obj\Debug\site1.pdb

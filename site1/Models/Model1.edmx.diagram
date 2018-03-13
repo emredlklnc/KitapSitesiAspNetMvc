@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d7da3bdd34254b09b4b3b8ae30ded1d9" Name="Diagram1">
+        <EntityTypeShape EntityType="KitapSitesiModel.Kitaplar" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KitapSitesiModel.Kullanıcılar" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KitapSitesiModel.BilimKurgu" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="KitapSitesiModel.EnCokSatılanlar" Width="1.5" PointX="2.75" PointY="3.75" />
+        <EntityTypeShape EntityType="KitapSitesiModel.Macera" Width="1.5" PointX="4.75" PointY="3.75" />
+        <EntityTypeShape EntityType="KitapSitesiModel.Romantik" Width="1.5" PointX="5.75" PointY="0.75" />
+        <EntityTypeShape EntityType="KitapSitesiModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="6.75" />
+        <EntityTypeShape EntityType="KitapSitesiModel.Komedi" Width="1.5" PointX="5.375" PointY="6.75" />
+        <EntityTypeShape EntityType="KitapSitesiModel.KisiselGelisim" Width="1.5" PointX="7.375" PointY="3.75" />
+        <EntityTypeShape EntityType="KitapSitesiModel.TemelEserler" Width="1.5" PointX="7.375" PointY="6.75" />
+        <EntityTypeShape EntityType="KitapSitesiModel.Sepetim" Width="1.5" PointX="3.125" PointY="7" />
+        <AssociationConnector Association="KitapSitesiModel.FK_Sepetim_Kullanıcılar" />
+        <EntityTypeShape EntityType="KitapSitesiModel.EnYeniGelenler" Width="1.5" PointX="8.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

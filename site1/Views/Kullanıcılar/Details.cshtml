@@ -1,0 +1,50 @@
+﻿@model site1.Models.Kullanıcılar
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Kullanıcılar</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.KULLANICIADI)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KULLANICIADI)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SIFRE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SIFRE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EMAİL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EMAİL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TARİH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TARİH)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,58 @@
+﻿@model site1.Models.EnYeniGelenler
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>EnYeniGelenler</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.YeniGelenKitapAdı)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.YeniGelenKitapAdı)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KitapResmi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KitapResmi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Yazarı)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Yazarı)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Özeti)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Özeti)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fiyatı)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fiyatı)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
